@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Kyria
-nav_order: 1
 Parent: Split Boards
+nav_order: 1
 ---
 
 # Kyria
