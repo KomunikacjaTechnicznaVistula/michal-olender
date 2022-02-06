@@ -2,15 +2,11 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Introduction to ErgoMech Boards"
+# description: "" Here to write the description of the site
 permalink: /
 ---
 
-# Introduction
+## Overview
 
-## Mechanical Boards
-
-### One-Piece
-
-### Split Boards
-
+FancyZones is a part of PowerToys a bundle of sotware targeted to a bit more tech savy user allowing for more advanced use of Windows OS.
+For Mac users a similar software would be **Grid**
