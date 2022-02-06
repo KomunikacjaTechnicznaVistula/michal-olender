@@ -30,4 +30,4 @@ Here you can adjust keybinds, and layout and zone behaviour.
 3. Creating custom layouts allows for vast customization. You can divide screen for as many zones as you like.
 
 <!-- here add gif of layout setup? -->
-![Gif ir broken :C](https://docs.microsoft.com/en-us/windows/images/pt-fancyzones-quickswap.gif)
+![Gif is broken :C](https://docs.microsoft.com/en-us/windows/images/pt-fancyzones-quickswap.gif)
