@@ -8,6 +8,8 @@ nav_order: 2
 
 FancyZones is a part of PowerToys a bundle of sotware targeted to a bit more tech savy user allowing for more advanced use of Windows OS.
 
+![Image is broken :C](./../assets/images/powertoys-logo.png)
+
 ## Installation
 
 To install PowerToys:
