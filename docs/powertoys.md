@@ -4,6 +4,10 @@ layout: default
 nav_order: 2
 ---
 
+## Overview
+
+FancyZones is a part of PowerToys a bundle of sotware targeted to a bit more tech savy user allowing for more advanced use of Windows OS.
+
 ## Installation
 
 To install PowerToys:

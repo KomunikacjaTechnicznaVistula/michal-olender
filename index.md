@@ -6,7 +6,4 @@ nav_order: 1
 permalink: /
 ---
 
-## Overview
 
-FancyZones is a part of PowerToys a bundle of sotware targeted to a bit more tech savy user allowing for more advanced use of Windows OS.
-For Mac users a similar software would be **Grid**
