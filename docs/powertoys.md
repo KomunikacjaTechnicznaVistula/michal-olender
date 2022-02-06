@@ -28,7 +28,7 @@ Here you can adjust keybinds, and layout and zone behaviour.
 
 1. Open PowerToys and navigate to FancyZones tab.
 2. There find layout editor.
-   1. You can either utilize predefined layouts, or decide to create your own.
+   a. You can either utilize predefined layouts, or decide to create your own.
 3. Creating custom layouts allows for vast customization. You can divide screen for as many zones as you like.
 
 <!-- here add gif of layout setup? -->

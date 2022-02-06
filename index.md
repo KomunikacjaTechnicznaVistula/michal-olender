@@ -6,4 +6,8 @@ nav_order: 1
 permalink: /
 ---
 
+# What is window management software?
 
+Window management software is what allows to take advantage of either limited space in the best way (for example single monitor setups) or multi-monitor setups to use them to the fullest extent.
+Such software allows to resize applications so they can fit perfectly, it is especially useful when you need to use 2 or more things at once.
+For example when you need to delve into multiple excel spreadsheets at once.
