@@ -4,7 +4,7 @@ title: Glossary
 nav_order: 4
 ---
 
-## Glossary
+# Glossary
 
 
 **FancyZones** - part of PowerToys bundle that allows for window management\
