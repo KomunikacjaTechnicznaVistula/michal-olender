@@ -1,6 +1,6 @@
 ---
 layout: default
-# title: Here write title for thir separate site
+title: Grid
 nav_order: 3
 ---
 

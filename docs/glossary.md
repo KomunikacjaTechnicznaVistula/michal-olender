@@ -1,6 +1,6 @@
 ---
 layout: default
-# title: Here write title for this separate site
+title: Glossary
 nav_order: 4
 ---
 
