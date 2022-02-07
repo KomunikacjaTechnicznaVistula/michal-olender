@@ -4,6 +4,7 @@ layout: default
 nav_order: 3
 ---
 
+![Image is broken :C](../assets/images/grid.jpg)
 ## Installation
 To install Grid:
 
@@ -15,3 +16,5 @@ To install Grid:
 
 Grid will start automatically with OS startup.
 While there are no predefined layers there is a multitude of options to choose from, as well as keybindings to use.
+
+![Image is broken :C](../assets/images/grid-taskbar-menu.jpg)
