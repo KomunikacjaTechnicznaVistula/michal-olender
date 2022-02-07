@@ -4,7 +4,12 @@ title: Grid
 nav_order: 3
 ---
 
+# Grid
+
 ![Image is broken :C](../assets/images/grid.jpg)
+
+## Overview
+Grid is third-party software for MacOS that allows for much more efficient window management.
 ## Installation
 To install Grid:
 
