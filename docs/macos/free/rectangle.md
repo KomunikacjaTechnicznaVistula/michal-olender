@@ -3,7 +3,7 @@ layout: default
 title: Rectangle
 nav_order: 1
 parent: Free
-grand_parent: MacO
+grand_parent: MacOS
 ---
 
 # Rectangle
