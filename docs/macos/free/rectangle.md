@@ -2,7 +2,6 @@
 layout: default
 title: Rectangle
 nav_order: 1
-has_children: true
 parent: Free
 grand_parent: MacO
 ---

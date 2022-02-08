@@ -16,9 +16,10 @@ Unfortunately the software seems to be abandoned for the most part as last commi
 
 ## Setup
 
-1. Download the zip file
-2. Unpack the zip file to whatever localization suits you
-3. You can either use it as portable app, that will need your action on every windows startup or install it and allow it to start with system startup.
+1. Go to [WindowGrid](http://windowgrid.net/)
+2. Download the zip file
+3. Unpack the zip file to whatever localization suits you
+4. You can either use it as portable app, that will need your action on every windows startup or install it and allow it to start with system startup.
 
 
 ![Image is broken :C](../../../assets/images/InfoScreen.png)

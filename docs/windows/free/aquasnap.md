@@ -2,7 +2,7 @@
 layout: default
 title: AquaSnap
 nav_order: 1
-parent: Paid
+parent: Free
 grand_parent: Windows
 ---
 
