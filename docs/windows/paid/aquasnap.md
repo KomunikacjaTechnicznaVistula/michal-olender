@@ -10,4 +10,4 @@ AquaSnap is paid software similar to PowerToys that allows for better window man
 
 Instead of being based on grid like PowerToys or WindowGrid that you can freely adjust it is based on snapping functionality.
 
-![Gif is broken :C](../../assets/images/aquasnap.gif)
+![Gif is broken :C](../../../assets/images/aquasnap.gif)

@@ -8,7 +8,7 @@ grand_parent: MacOS
 
 # Grid
 
-![Image is broken :C](../assets/images/grid.jpg)
+![Image is broken :C](../../../assets/images/grid.jpg)
 
 ## Overview
 Grid is third-party software for MacOS that allows for much more efficient window management.
@@ -24,4 +24,4 @@ To install Grid:
 Grid will start automatically with OS startup.
 While there are no predefined layers there is a multitude of options to choose from, as well as keybindings to use.
 
-![Image is broken :C](../assets/images/grid-taskbar-menu.jpg)
+![Image is broken :C](../../../assets/images/grid-taskbar-menu.jpg)
