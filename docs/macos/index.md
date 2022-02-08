@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grid
+title: MacOS
 nav_order: 3
 has_children: true
 ---

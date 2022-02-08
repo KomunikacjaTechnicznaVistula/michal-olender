@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grid
+title: Windows
 nav_order: 2
 has_children: true
 ---
