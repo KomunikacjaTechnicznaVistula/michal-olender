@@ -2,7 +2,8 @@
 layout: default
 title: AquaSnap
 nav_order: 2
-parent: Windows
+parent: Paid
+grand_parent: Windows
 ---
 
 AquaSnap is paid software similar to PowerToys that allows for better window management in Windows OS.

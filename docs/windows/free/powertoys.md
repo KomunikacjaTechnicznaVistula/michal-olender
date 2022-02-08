@@ -2,7 +2,8 @@
 layout: default
 title: PowerToys
 nav_order: 1
-parent: Windows
+parent: Free
+grand_parent: Windows
 ---
 
 # PowerToys
