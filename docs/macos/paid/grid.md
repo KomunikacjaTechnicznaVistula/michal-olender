@@ -2,7 +2,7 @@
 layout: default
 title: Grid
 nav_order: 1
-parent: Free
+parent: Paid
 grand_parent: MacOS
 ---
 

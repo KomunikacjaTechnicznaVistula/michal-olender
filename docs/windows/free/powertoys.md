@@ -19,7 +19,7 @@ FancyZones is a part of PowerToys a bundle of sotware developed by Microsoft, ta
 To install PowerToys:
 
 1. Go to:
-   https://github.com/microsoft/PowerToys/releases/tag/v0.53.3 \
+   [PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.53.3) \
    and download the .exe file
 2. Follow instructions.
 
