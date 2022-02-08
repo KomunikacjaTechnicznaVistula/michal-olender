@@ -7,7 +7,7 @@ parent: Windows
 
 # PowerToys
 
-![Image is broken :C](./../assets/images/powertoys-logo.png)
+![Image is broken :C](../../assets/images/powertoys-logo.png)
 
 ## Overview
 
