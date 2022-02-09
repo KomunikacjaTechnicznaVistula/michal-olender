@@ -18,8 +18,6 @@ The shortcuts that are used to control the size and placement of the window can 
 
 The app can be used for free but it has also paid version with extended functionality.
 
-
-
 ## Setup
 
 1. Go to [Rectangle](https://rectangleapp.com/)
