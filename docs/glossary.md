@@ -10,4 +10,5 @@ nav_order: 4
 **PowerToys** - set of utilities allowing for greater tunIng and streamlining of Windows experience\
 **WindowGrid** - lightweight portable software that divides your screen space into grid. Allows for jarge amount of control over resizing the window.\
 **Aquasnap** - paid alternative for PowerToys FancyZones that is based on snapping functionality.\
-**Grid** - software similar to FancyZones for MacOS, allows for window management through usage of keyboard shortcuts or taskbar menu.
+**Grid** - software similar to FancyZones for MacOS, allows for window management through usage of keyboard shortcuts or taskbar menu
+/ **** here to put some further software for brief explanation.
