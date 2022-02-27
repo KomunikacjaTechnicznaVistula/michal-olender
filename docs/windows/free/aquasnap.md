@@ -8,7 +8,7 @@ grand_parent: Windows
 
 # AquaSnap
 
-AquaSnap is free software with paid option to extend functionality, similar to PowerToys that allows for better window management in Windows OS.
+AquaSnap is free software with paid option to extend functionality, similarly to PowerToys it allows for better window management in Windows OS.
 
 Instead of being based on grid like PowerToys or WindowGrid that you can freely adjust it is based on snapping functionality.
 
