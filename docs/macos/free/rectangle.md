@@ -21,4 +21,4 @@ The app can be used for free but it has also paid version with extended function
 ## Setup
 
 1. Go to [Rectangle](https://rectangleapp.com/)
-2. Download the .dmg file to install the app on your Mac
+2. Download the .dmg file to install the app on your Mac.
