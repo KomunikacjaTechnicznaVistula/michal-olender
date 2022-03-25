@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="corne">
+    <title>Corne</title>
+    <shortdesc>The Corne keyboard is a split keyboard with 3x6 column staggered keys and 3 thumb
+        keys, based on <xref href="https://github.com/MakotoKurauchi/helix" format="html"
+            scope="external">Helix</xref>. Crkbd stands for Corne Keyboard. </shortdesc>
+    <conbody>
+        <p><image href="../../Ergoboards%20-%20DITA/images/corne.png" scale="35"
+                id="image_ikl_tlt_zsb"/></p>
+    </conbody>
+</concept>

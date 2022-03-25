@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="layouts">
+    <title>Layouts</title>
+    <taskbody>
+        <context> There are many different layouts to choose from for your future comfort.</context>
+        <steps>
+            <step>
+                <cmd>.QWERTY</cmd>
+            </step>
+            <step>
+                <cmd>.DVORAK</cmd>
+            </step>
+            <step>
+                <cmd>.Colemak</cmd>
+            </step>
+            <step>
+                <cmd>.Colemak-DH</cmd>
+            </step>
+            <step>
+                <cmd>.Miriyoku</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

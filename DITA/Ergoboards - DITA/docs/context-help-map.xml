@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_strawberries" path="topics/c_strawberries.html"/>
+   <appContext helpID="t_fruit_salad" path="topics/t_fruit_salad.html"/>
+   <appContext helpID="c_oranges" path="topics/c_oranges.html"/>
+   <appContext helpID="t_fruit_salad" path="topics/t_fruit_salad.html"/>
+   <appContext helpID="c_apples" path="topics/c_apples.html"/>
+   <appContext helpID="t_fruit_salad" path="topics/t_fruit_salad.html"/>
+   <appContext helpID="c_tomatoes" path="topics/c_tomatoes.html"/>
+   <appContext helpID="t_veggie_soup" path="topics/t_veggie_soup.html"/>
+   <appContext helpID="c_peppers" path="topics/c_peppers.html"/>
+   <appContext helpID="t_veggie_soup" path="topics/t_veggie_soup.html"/>
+   <appContext helpID="c_carrots" path="topics/c_carrots.html"/>
+   <appContext helpID="t_veggie_soup" path="topics/t_veggie_soup.html"/>
+   <appContext helpID="r_cookbook" path="topics/r_calorie%20table.html"/>
+   <appContext helpID="c_apples" path="topics/c_apples.html"/>
+   <appContext helpID="c_oranges" path="topics/c_oranges.html"/>
+   <appContext helpID="c_strawberries" path="topics/c_strawberries.html"/>
+   <appContext helpID="t_fruit_salad" path="topics/t_fruit_salad.html"/>
+   <appContext helpID="r_cookbook" path="topics/r_calorie%20table.html"/>
+   <appContext helpID="c_carrots" path="topics/c_carrots.html"/>
+   <appContext helpID="c_peppers" path="topics/c_peppers.html"/>
+   <appContext helpID="c_tomatoes" path="topics/c_tomatoes.html"/>
+   <appContext helpID="t_veggie_soup" path="topics/t_veggie_soup.html"/>
+   <appContext helpID="r_cookbook" path="topics/r_calorie%20table.html"/>
+   <appContext helpID="t_fruit_salad" path="topics/t_fruit_salad.html"/>
+   <appContext helpID="t_veggie_soup" path="topics/t_veggie_soup.html"/>
+   <appContext helpID="r_cookbook" path="topics/r_calorie%20table.html"/>
+</map>

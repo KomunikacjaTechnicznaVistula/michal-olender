@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>ergomech boards map</title>
+    <topicmeta>
+        <author>Michał Olender</author>
+    </topicmeta>
+    <topicref href="topics/atreus.dita">
+        <topicref href="topics/ergo-guide.dita"/>
+        <topicref href="topics/layouts.dita"/>
+    </topicref>
+    <topicref href="topics/corne.dita">
+        <topicref href="topics/ergo-guide.dita"/>
+        <topicref href="topics/layouts.dita"/>
+    </topicref>
+    <topicref href="topics/dygma-raise.dita">
+        <topicref href="topics/ergo-guide.dita"/>
+        <topicref href="topics/layouts.dita"/>
+    </topicref>
+    <topicref href="topics/moonlander.dita">
+        <topicref href="topics/ergo-guide.dita"/>
+        <topicref href="topics/layouts.dita"/>
+    </topicref>
+</map>

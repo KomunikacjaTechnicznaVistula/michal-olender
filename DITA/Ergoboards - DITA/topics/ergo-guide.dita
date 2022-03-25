@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ergoguide">
+    <title>How to choose your first board</title>
+    <shortdesc>Choosing your first ergomeach board</shortdesc>
+    <taskbody>
+        <context>A step-by-step guide.</context>
+        <steps>
+            <step>
+                <cmd>Figure out what are your needs.</cmd>
+            </step>
+            <step>
+                <cmd>Find board suitable to your needs.</cmd>
+            </step>
+            <step>
+                <cmd>Print layouts and try them to see if they are comfortable.</cmd>
+            </step>
+            <step>
+                <cmd>Either make it yourself or order if it is a possibility.</cmd>
+            </step>
+            <step>
+                <cmd>Exercise to get comfortable with new layout.</cmd>
+            </step>
+            <step>
+                <cmd>Enjoy.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
