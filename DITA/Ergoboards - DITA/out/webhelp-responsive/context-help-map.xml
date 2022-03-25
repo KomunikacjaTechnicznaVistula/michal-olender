@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="atreus" path="topics/atreus.html"/>
+   <appContext helpID="ergoguide" path="topics/ergo-guide.html"/>
+   <appContext helpID="layouts" path="topics/layouts.html"/>
+   <appContext helpID="corne" path="topics/corne.html"/>
+   <appContext helpID="ergoguide" path="topics/ergo-guide.html"/>
+   <appContext helpID="layouts" path="topics/layouts.html"/>
+   <appContext helpID="dygma" path="topics/dygma-raise.html"/>
+   <appContext helpID="ergoguide" path="topics/ergo-guide.html"/>
+   <appContext helpID="layouts" path="topics/layouts.html"/>
+   <appContext helpID="moonlander" path="topics/moonlander.html"/>
+   <appContext helpID="ergoguide" path="topics/ergo-guide.html"/>
+   <appContext helpID="layouts" path="topics/layouts.html"/>
+</map>
